@@ -1,6 +1,4 @@
 # Permanently moved
+See [here](https://gitlab.com/dpawensza) for my GitLab profile, or [here](contribs.md) for a list of contributions to projects hosted on GitHub.
 
-I have migrated to Gitlab, and am available there as [@dpawensza](https://gitlab.com/dpawensza). All migrated projects on this account will be archived, and later deleted.  
-
-See you on the other side!  
 _~jan Mikowa_
