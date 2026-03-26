@@ -1,4 +1,4 @@
-# Permanently moved
-See [here](https://gitlab.com/dpawensza) for my GitLab profile, or [here](contribs.md) for a list of contributions to projects hosted on GitHub.
+# :mountain: Permanently moved to Codeberg
+[**See here**](https://codeberg.org/kbity) for my profile, or [here](contribs.md) for a list of my contributions to projects hosted on GitHub.
 
-_~jan Mikowa_
+_~bit_
